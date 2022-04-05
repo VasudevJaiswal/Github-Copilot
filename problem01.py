@@ -1,5 +1,3 @@
-# MAKING A CALCULATOR WITH PYTHON 3
-
 def main():
     print("This is a simple calculator.")
     print("Enter 'q' to quit.")
